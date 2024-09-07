@@ -30,7 +30,7 @@ psutil
 pybase64
 pycountry
 pymongo
-https://github.com/KurimuzonAkuma/pyrogram/archive/dev.zip
+pyrogram>=2.0.30
 python-dotenv
 python-magic
 qbittorrent-api
